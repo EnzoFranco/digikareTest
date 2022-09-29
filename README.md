@@ -6,7 +6,7 @@
 * JUnit
 * Mockito
 
-#Prerequisite
+# Prerequisite
 
 |Dependency|Download |
 | --- | --- | 
@@ -15,7 +15,7 @@
 |Postman|https://www.postman.com/|
 |PostgreSQL| https://www.postgresql.org/download/|
 
-#How to use the Docker version
+# How to use the Docker version
 Go to the docker folder
 ```
 cd src/main/docker
@@ -26,7 +26,7 @@ docker-compose up
 ```
 You can finally play with Postman.
 
-#How to use the Code version
+# How to use the Code version
 Launch the DemoApplication.
 
 If you have errors you probably need to change the username and password in src/main/resources/application.properties.
